@@ -4,9 +4,11 @@ function About() {
   return (
     <div id="about">
       <h2>About Me</h2>
-      <p>Put the bio in here</p>
+      <p>I made this!</p>
       <img src="https://i.imgur.com/mV8PQxj.gif" alt="I made this" />
-      {/* add your <Links /> component here */}
+      <h3>Links</h3>
+      <ul>https://github.com/liza</ul>
+      <ul>https://www.linkedin.com/in/liza/</ul>
     </div>
   );
 }
